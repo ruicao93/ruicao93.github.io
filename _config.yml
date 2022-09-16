@@ -9,6 +9,7 @@ markdown: kramdown
 highlighter: rouge
 plugins: [jekyll-paginate]
 paginate: 10
+header: large
 
 navigation:
  - title: Home
@@ -21,8 +22,7 @@ navigation:
    url: /categories
  - title: About
    url: /about
- - title: Donate
-   url: /donate
+
 
 social:
    github: chnhaoran
