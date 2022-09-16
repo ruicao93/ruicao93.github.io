@@ -36,7 +36,7 @@ defaults:
     values:
       comments: false
 
-google_analytics: "G-LZTRJQTMCY"
+google_analytics: "G-35B19JYLHK"
 
 # development configurations
 host: 0.0.0.0
